@@ -38,7 +38,7 @@ void insertionSort(int arr[], int n) {
 int main() {
 
     int n;
-    cout<<"Enter number of elements : ";
+    cout<<"Enter the number of elements : ";
     cin>>n;
 
     int arr[n];
